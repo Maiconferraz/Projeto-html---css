@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    width: 8vw;
+    height: 10vh;
+    margin: 1em;
+}
+.palmeiras{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.palmeiras img{
+    border-radius: 2em;
+    width: 100%;
+    -webkit-box-shadow: -5px 11px 99px 26px rgba(0,0,0,0.38);
+    -moz-box-shadow: -5px 11px 99px 26px rgba(0,0,0,0.38);
+    sombra da caixa: -5px 11px 99px 26px rgba(0,0,0,0.38);
